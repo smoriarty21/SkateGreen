@@ -1,0 +1,19 @@
+Databases:
+
+Locations
+	id
+	name
+	address
+	city
+	state
+	geoloc
+
+Pictures
+	id
+	name
+	userid
+	locid
+	timestamp
+
+
+GROUP BY (mysql)
